@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/06.png">
    </p>
   
-  ## Register IP VPS: Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+## Register IP VPS: Contact Telegram @dagger0000 <a href="https://t.me/dagger0000" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
   
-## SHOPEE :  <a href="https://shopee.com.my/shop/155733015/" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=shopee&label=Shopee&message=Click%20Here&color=blue"></a>  
+## SHOPEE :  <a href="https://shopee.com.my/shop/null/" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=shopee&label=Shopee&message=Click%20Here&color=blue"></a>  
   ## Installation :
 
 ```
