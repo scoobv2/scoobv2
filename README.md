@@ -1,6 +1,4 @@
 # scoobv2
-- 👋 Hi, I’m @shopeevpn...
-- 🌱 I’m currently learning ...
 
 <!---
 shopeevpn/shopeevpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,10 +43,13 @@ You can click the Preview link to take a look at your changes.
   ## Installation :
 
 ```
-   apt update -y && apt upgrade -y --fix-missing && update-grub
+apt update -y && apt upgrade -y --fix-missing && update-grub
 ```
 ```
-   echo -e "[ Info ] Download setup file" && sysctl -w net.ipv6.conf.all.disable_ipv6=1 &> /dev/null && sysctl -w net.ipv6.conf.default.disable_ipv6=1 &> /dev/null && apt update -y &> /dev/null && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils &> /dev/null && wget https://raw.githubusercontent.com/shopeevpn/scoobv2/main/setup.sh &> /dev/null && chmod +x setup.sh && "/root/setup.sh"
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils && wget https://raw.githubusercontent.com/shopeevpn/scoobv2/main/setup.sh && chmod +x setup.sh && "/root/setup.sh"
+```
+```
+echo -e "[ Info ] Download setup file" && sysctl -w net.ipv6.conf.all.disable_ipv6=1 &> /dev/null && sysctl -w net.ipv6.conf.default.disable_ipv6=1 &> /dev/null && apt update -y &> /dev/null && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils &> /dev/null && wget https://raw.githubusercontent.com/shopeevpn/scoobv2/main/setup.sh &> /dev/null && chmod +x setup.sh && "/root/setup.sh"
 ```
 kalau error masa install [screen is terminating]
 ```   
